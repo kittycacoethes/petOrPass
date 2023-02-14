@@ -12,7 +12,7 @@ class OldPet extends React.Component {
                     <div class="col-md-8">
                         <div class="card-body">
                             <h5 class="card-title">Previous Pet Name</h5>
-                            <p class="card-text">percentage% chose to pet PreviousPet!</p>
+                            <p class="card-text">number% of voters chose to pet PreviousPet!</p>
                         </div>
                     </div>
                 </div>
